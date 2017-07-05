@@ -1,0 +1,66 @@
+body{
+  background-image:url("http://runitlikeamom.com/wp-content/uploads/2016/03/Sunshine-and-Rainbows.jpg");
+}
+
+.paragraph { 
+  padding-top: 2cm;
+  padding-bottom: 2cm;
+  text-align:center; 
+  font: Arial; 
+  font-size: 45px; 
+  color: #E7B208; 
+} 
+
+.h1 {
+  font: Arial; 
+  text-align: center; 
+  font-size: 45px;
+}
+
+.realm {
+  background-color: purple;
+  border: 2px solid pink; 
+  height: 400px;
+  width: 600px; 
+  margin: 0 auto; 
+  border-radius: 30px; 
+}
+
+#jar {
+  width: 250px;
+  height: 350px;
+  text-align: center; 
+  display: block;
+  padding-top: 2cm;
+} 
+
+.quoteOfTheDay {
+  font-size: 36px; 
+  font-family: Arial; 
+  text-align: center; 
+  background-color: ;
+  
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
