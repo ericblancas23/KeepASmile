@@ -1,14 +1,17 @@
 body{
-  background-image:url("http://runitlikeamom.com/wp-content/uploads/2016/03/Sunshine-and-Rainbows.jpg");
+ background-image:url("http://runitlikeamom.com/wp-content/uploads/2016/03/Sunshine-and-Rainbows.jpg"); 
 }
 
 .paragraph { 
-  padding-top: 2cm;
-  padding-bottom: 2cm;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
   text-align:center; 
   font: Arial; 
-  font-size: 45px; 
-  color: #E7B208; 
+  font-size: 25px; 
+  color: #E7B208;    
+  background-color: grey;  
+  border: 10px solid grey;
+  border-radius: 30px; 
 } 
 
 .h1 {
@@ -20,10 +23,10 @@ body{
 .realm {
   background-color: purple;
   border: 2px solid pink; 
-  height: 400px;
+  height: 400 px;
   width: 600px; 
-  margin: 0 auto; 
-  border-radius: 30px; 
+  margin: 100px auto; 
+  border-radius: 30px;  
 }
 
 #jar {
@@ -40,7 +43,26 @@ body{
   text-align: center; 
   background-color: ;
   
+}  
+header {
+  border: 10px solid lightskyblue;
+  background-image: url("http://wallpapercave.com/wp/1DNguiE.png"); 
 } 
+footer {
+  border: 10px solid yellow; 
+  background-color: yellow; 
+}
+div {
+  display: block; 
+} 
+.layout {
+  box-sizing: border-box; 
+}
+
+
+
+
+
 
 
 
