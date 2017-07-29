@@ -48,10 +48,7 @@ header {
   border: 10px solid lightskyblue;
   background-image: url("http://wallpapercave.com/wp/1DNguiE.png"); 
 } 
-footer {
-  border: 10px solid yellow; 
-  background-color: yellow; 
-}
+
 div {
   display: block; 
 } 
