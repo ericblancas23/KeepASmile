@@ -608,6 +608,51 @@ $('#jar').unbind('click').click(function()  {
         case 200: 
           alert("believe in yourself and you will be unstoppable"); 
           break; 
+        case 201: 
+          alert("Dreams and dedication are a powerful combination"); 
+          break; 
+        case 202: 
+          alert("The best preperation for tomorrow is doing your best today");
+          break; 
+        case 203: 
+          alert("Keep your face always toward the sunshine and shadows will fall behind you"); 
+          break; 
+        case 204: 
+          alert("Tell me I forget, teach me and I remember, involve me and I learn");
+          break; 
+        case 205: 
+          alert("no legacy is as rich as honesty"); 
+          break; 
+        case 206: 
+          alert("when you practice gratefullness, there is a sense of repect towards others"); 
+          break; 
+        case 207: 
+          alert("theres no happier person than a thankful person"); 
+          break; 
+        case 208: 
+          alert("gratitude is the sign of noble souls"); 
+          break; 
+        case 209: 
+          alert("gratitude changes the pangs of memory in tranquil joy"); 
+          break; 
+        case 210: 
+          alert("if you suffer thank god its a sign that you're alive"); 
+          break; 
+        case 211: 
+          alert("No duty is more urgent than that of returning thanks"); 
+          break; 
+        case 212: 
+          alert("The greatest healing therapy is friendship and love"); 
+          break; 
+        case 213: 
+          alert("Everyday is a new day and you'll never be able to find happiness if you dont move on"); 
+          break; 
+          case 214: 
+            alert("Every new beginning comes from a beginnings end"); 
+            break; 
+          case 215: 
+            alert("Dont brood, get on with living and loving, you dont have forever"); 
+            break;     
       }
     
   });
