@@ -1,7 +1,7 @@
 $(document).ready(function(){
   
 $('#jar').unbind('click').click(function()  {
-    var r = Math.floor(Math.random() * 201);
+    var r = Math.floor(Math.random() * 216);
       switch(r) {
         case 0:
           alert("life is 10% of what happens to you, 90% is how you react to it"); 
